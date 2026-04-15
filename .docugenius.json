@@ -1,0 +1,13 @@
+{
+  "version": "1.0",
+  "auto_convert": true,
+  "output_dir": "output",
+  "extract_images": true,
+  "split_threshold": 500000,
+  "supported_extensions": [
+    ".docx",
+    ".xlsx",
+    ".pptx",
+    ".pdf"
+  ]
+}
