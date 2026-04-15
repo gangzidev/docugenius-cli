@@ -63,7 +63,7 @@ docugenius-cli/
 ### 安装
 
 ```bash
-uv tool install docugenius-cli --force --from git+https://github.com/bruc3van/docugenius.git
+uv tool install docugenius-cli --force --from git+https://github.com/gangzidev/docugenius-cli.git
 ```
 
 ### 基本使用

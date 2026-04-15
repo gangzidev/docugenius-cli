@@ -10,7 +10,7 @@ readme = "README.md"
 requires-python = ">=3.8"
 license = {text = "MIT"}
 authors = [
-    {name = "brucevan", email = "brucevanfdm@gmail.com"}
+    {name = "gangzidev", email = "gangzidev@gmail.com"}
 ]
 keywords = [
     "markdown",
@@ -54,10 +54,10 @@ dev = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/bruc3van/docugenius"
-Documentation = "https://github.com/bruc3van/docugenius#readme"
-Repository = "https://github.com/bruc3van/docugenius"
-Issues = "https://github.com/bruc3van/docugenius/issues"
+Homepage = "https://github.com/gangzidev/docugenius-cli"
+Documentation = "https://github.com/gangzidev/docugenius-cli#readme"
+Repository = "https://github.com/gangzidev/docugenius-cli"
+Issues = "https://github.com/gangzidev/docugenius-cli/issues"
 
 [project.scripts]
 docugenius = "docugenius.cli:main"

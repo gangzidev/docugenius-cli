@@ -3,7 +3,7 @@
 ## 安装
 
 ```bash
-uv tool install docugenius-cli --force --from git+https://github.com/bruc3van/docugenius.git
+uv tool install docugenius-cli --force --from git+https://github.com/gangzidev/docugenius-cli.git
 ```
 
 ## 基本使用
@@ -146,7 +146,7 @@ cat ./output/document.md
 ### 依赖缺失
 
 ```bash
-uv tool install docugenius-cli --force --from git+https://github.com/bruc3van/docugenius.git
+uv tool install docugenius-cli --force --from git+https://github.com/gangzidev/docugenius-cli.git
 ```
 
 ### 图片提取失败

@@ -20,7 +20,7 @@ DocuGenius CLI is a command-line tool that converts various document formats to 
 ## Installation
 
 ```bash
-uv tool install docugenius-cli --force --from git+https://github.com/bruc3van/docugenius.git
+uv tool install docugenius-cli --force --from git+https://github.com/gangzidev/docugenius-cli.git
 ```
 
 ## Quick Start
@@ -212,8 +212,8 @@ project/
 ### Install from source
 
 ```bash
-git clone https://github.com/bruc3van/docugenius.git
-cd docugenius/docugenius-cli
+git clone https://github.com/gangzidev/docugenius-cli.git
+cd docugenius-cli
 uv sync
 ```
 
@@ -236,7 +236,7 @@ black src/
 If you see import errors, try reinstalling:
 
 ```bash
-uv tool install docugenius-cli --force --from git+https://github.com/bruc3van/docugenius.git
+uv tool install docugenius-cli --force --from git+https://github.com/gangzidev/docugenius-cli.git
 ```
 
 ### Image extraction fails
@@ -260,8 +260,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## Author
 
-- X: [@bruc3van](https://x.com/bruc3van)
-- GitHub: [@bruc3van](https://github.com/bruc3van)
+- GitHub: [@gangzidev](https://github.com/gangzidev)
 
 ## Related Projects
 
